@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\openglprojects\\compulsory2vissim\\src\\input\\module.ixx",
+        "ProvidedModule": "Module",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
